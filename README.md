@@ -1,3 +1,3 @@
 # fenomenalnerepozytorium
 Zadanie 3 pwi
-Dodanie pierwszych zmian
+Poprawione pięknie zadanie Dodanie pierwszych zmian
